@@ -43,6 +43,4 @@ We all know how it feels when you forget to renew your domain, that's why we hav
 
 ## More info
 
-This repository is created to gather feature requests & to submit any issues you might find.
-
-More info about the application can be seen at [Darawish](https://darawish.io) website.
+More info about the application can be seen at [Darawish](https://darawish.io) website. For support requests use our [Support portal](https://support.darawish.io)
