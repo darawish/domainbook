@@ -43,4 +43,4 @@ We all know how it feels when you forget to renew your domain, that's why we hav
 
 ## More info
 
-More info about the application can be seen at [Darawish](https://darawish.io) website. For support requests use our [Support portal](https://support.darawish.io)
+More info about the application can be seen at [Darawish](https://darawish.io) website.
