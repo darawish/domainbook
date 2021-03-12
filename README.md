@@ -5,10 +5,14 @@ It is like a phonebook for your domains.
 
 ![](./domains/v1.6/Image.png)
 
-You can buy it via [Paddle](https://pay.paddle.com/checkout/556574) for only [$14.99](https://pay.paddle.com/checkout/556574)
+You can buy the macOS version via [Paddle](https://pay.paddle.com/checkout/556574) for only [$14.99](https://pay.paddle.com/checkout/556574), and the Windows version via [Paddle](https://buy.paddle.com/product/646912) for only [$14.99](https://buy.paddle.com/product/646912).
 
 
 ## Features
+
+**Multi Platforms**
+
+You can run the application on macOS (intel) or Windows 10 (64-bit).
 
 **Simple and Easy to use**
 
