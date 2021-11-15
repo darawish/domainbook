@@ -5,7 +5,7 @@ It is like a phonebook for your domains.
 
 ![](./domains/v1.6/Image.png)
 
-You can buy the macOS version via [Paddle](https://pay.paddle.com/checkout/556574) for only [$14.99](https://pay.paddle.com/checkout/556574).
+You can buy the macOS version via [AppSumo](https://appsumo.com/products/domain-book-app-mac/) for only [$10](https://appsumo.com/products/domain-book-app-mac/) down from $14.99.
 
 
 ## Features
